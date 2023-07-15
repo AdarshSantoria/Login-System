@@ -17,7 +17,7 @@ This project implements a secure and user-friendly login, registration, and pass
 
 1. Clone the repository or download the project files.
 2. Configure the database settings in the `config.php` file to match your MySQL database credentials.
-3. Import the provided SQL file (`database.sql`) into your MySQL database to create the required tables.
+3. Import the provided SQL file (`login.sql`) into your MySQL database to create the required tables.
 4. Make sure the necessary dependencies, such as PHPMailer, are installed. You can use Composer to manage dependencies.
 5. Customize the email templates in the `emails` directory to match your application's branding and requirements.
 6. Place the project files in your web server's document root directory.
