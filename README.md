@@ -21,7 +21,10 @@ This project implements a secure and user-friendly login, registration, and pass
 4. Make sure the necessary dependencies, such as PHPMailer, are installed. You can use Composer to manage dependencies.
 5. Customize the email templates in the `emails` directory to match your application's branding and requirements.
 6. Place the project files in your web server's document root directory.
-7. Access the application through the browser to start using the login, registration, and password reset functionality.
+7. Update SMTP credentials:
+   - Open the `forgot_password.php` and `register.php` files.
+   - Locate the SMTP configuration section.
+   - Replace the placeholder SMTP credentials with your own SMTP server details.
 
 ## Usage
 
