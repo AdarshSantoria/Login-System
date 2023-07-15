@@ -55,4 +55,4 @@ This project implements a secure and user-friendly login, registration, and pass
 
 ## License
 
-This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License)https://en.wikipedia.org/wiki/MIT_License).
+This project is licensed under the [MIT License]https://en.wikipedia.org/wiki/MIT_License).
